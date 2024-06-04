@@ -1,6 +1,6 @@
 ## 😬 Hi there!!! 😋
 
-I'm a working professional on #Drupal & #javaScript.
+I'm a working professional on Drupal, Mautic & JavaScript.
 
 <!--
 **abhisekmazumdar/abhisekmazumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
